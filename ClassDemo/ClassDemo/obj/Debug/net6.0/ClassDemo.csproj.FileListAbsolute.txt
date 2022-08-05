@@ -1,0 +1,15 @@
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.exe
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.deps.json
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.runtimeconfig.json
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.dll
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.pdb
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.dll
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\refint\ClassDemo.dll
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.pdb
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.genruntimeconfig.cache
+C:\Users\herre\OneDrive\Documents\C# Projects\ClassDemo\ClassDemo\obj\Debug\net6.0\ref\ClassDemo.dll
